@@ -1,0 +1,49 @@
+#
+#   VizieR Astronomical Server vizier.cds.unistra.fr
+#    Date: 2025-05-06T23:38:50 [V7.4.6]
+#   In case of problem, please report to:	cds-question@unistra.fr
+#
+#
+#Coosys	J2000:	eq_FK5 J2000
+#INFO	service_protocol=ASU	  IVOID of the protocol through which the data was retrieved
+#INFO	request_date=2025-05-06T23:38:50	  Query execution date
+#INFO	request=https://vizier.cds.unistra.fr/viz-bin/asu-tsv?-oc.form=dec&-out.max=50&-source=J/A+A/645/A19/tablea4&-order=I&-out=v&apos;-v&apos;&apos;&-out=Code&-out=Range&	  Full request URL (POST)
+#INFO	contact=cds-question@unistra.fr	  Email or URL to contact publisher
+#INFO	server_software=7.4.6	  Software version
+#INFO	publisher=CDS	  Data centre that produced the VOTable
+
+#RESOURCE=yCat_36450019
+#Name: J/A+A/645/A19
+#Title: Arcturus Lab (line list) (Fanelli+, 2021)
+#INFO	ivoid=ivo://cds.vizier/j/a+a/645/a19	    IVOID of underlying data collection
+#INFO	creator=Fanelli C.	    First author or institution
+#INFO	cites=bibcode:2021A&A...645A..19F	    Article or Data origin sources
+#INFO	editor=Astronomy and Astrophysics	    Editor name (article)
+#INFO	original_date=2021	    Year of the article publication
+#INFO	reference_url=https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/645/A19	    Dataset landing page
+#INFO	citation=doi:10.26093/cds/vizier.36450019	    Dataset identifier that can be used for citation
+#INFO	publication_date=2021-09-09	    Date of first publication in the data centre
+#INFO	rights_uri=https://cds.unistra.fr/vizier-org/licences_vizier.html	    Licence URI
+#Table	J_A_A_645_A19_tablea4:
+#Name: J/A+A/645/A19/tablea4
+#Title: Visible ^12^CO and ^13^CO band-heads
+#Column	v'-v''	(A4)	vibrational quantum numbers (1)	[ucd=phys.atmol.qn;phys.mol.vibration]
+#Column	Code	(F7.2)	molecule-isotopologue identification	[ucd=meta.id]
+#Column	Range	(A11)	Wavelength range in the air	[ucd=em.wl]
+v'-v''	Code	Range
+ 	 	0.1nm
+----	-------	-----------
+3-0 	 608.12	15577-15580
+4-1 	 608.12	15774-15776
+5-2 	 608.12	15976-15980
+6-3 	 608.12	16183-16186
+7-4 	 608.12	16395-16400
+8-5 	 608.12	16611-16615
+9-6 	 608.12	16834-16837
+10-7	 608.12	17061-17065
+5-2 	 608.13	16529-16532
+6-3 	 608.13	16956-16960
+4-2 	 608.13	23440-23447
+6-4 	 608.13	23731-23738
+7-5 	 608.13	24028-24034
+
